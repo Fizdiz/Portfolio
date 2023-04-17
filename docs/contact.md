@@ -1,3 +1,3 @@
 LinkedIN: 
 
-Email: 
+[Email] (sean.rech@gmail.com)
