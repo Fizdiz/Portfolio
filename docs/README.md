@@ -6,4 +6,4 @@ If you want to dive right in, try our [quick start tutorial]([./](https://github
 
 You can check out a [Sample](https://github.com/Fizdiz/Portfolio/docs/assets/1934709_116155479145_124810_n.jpg) for more information.
 
-Need to [contact someone](https://github.com/Fizdiz/Portfolio/tree/main/docs/contact.md) on the team?
+Need to [contact someone](/docs/contact.md) on the team?
